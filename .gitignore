@@ -6,3 +6,5 @@ lesson_6
 test_calc_student.py
 test_example_with_timeout.py
 test_pg_example.py
+chrome-mac-arm64.zip
+chromedriver-mac-arm64
