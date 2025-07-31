@@ -9,3 +9,4 @@ test_pg_example.py
 chrome-mac-arm64.zip
 chromedriver-mac-arm64
 /homeworks/homework_6/.env
+.env
